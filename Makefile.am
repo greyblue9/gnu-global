@@ -35,3 +35,7 @@ doxygen:
 # If you would like to install gtags.el to the lisp directory then uncomment
 # the following line.
 # dist_lisp_LISP = gtags.el
+
+BUILD_TOOLS:
+	touch BUILD_TOOLS
+

@@ -705,6 +705,9 @@ doxygen:
 # the following line.
 # dist_lisp_LISP = gtags.el
 
+BUILD_TOOLS:
+	touch BUILD_TOOLS
+
 # Tell versions [3.59,3.63) of GNU make to not export all variables.
 # Otherwise a system limit (for SysV at least) may be exceeded.
 .NOEXPORT:
